@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="YOUR_BANNER_RA" width="100%">
+  <img src="https://raw.githubusercontent.com/saurabh1218/Sales-Prediction-ML/main/Banner.png
+" width="100%">
 </p>
 
 
